@@ -1,0 +1,149 @@
+[  0%] Built target gen_mux
+[100%] Compile sv files with verilator
+Archive ar -rcs Vmuxes_bench__ALL.a Vmuxes_bench__ALL.o
+[100%] Built target mux
+mux1 and mux4 are correct
+d2: 0000, d3: 0000, d4: 0000, d5: 0000, s: 00, qe1: 0000
+d2: 0000, d3: 0000, d4: 0000, d5: 0000, s: 01, qe1: 0000
+d2: 0000, d3: 0000, d4: 0000, d5: 0000, s: 10, qe1: 0000
+d2: 0000, d3: 0000, d4: 0000, d5: 0000, s: 11, qe1: 0000
+d2: 0000, d3: 0000, d4: 0000, d5: 0001, s: 00, qe1: 0000
+d2: 0000, d3: 0000, d4: 0000, d5: 0001, s: 01, qe1: 0000
+d2: 0000, d3: 0000, d4: 0000, d5: 0001, s: 10, qe1: 0000
+d2: 0000, d3: 0000, d4: 0000, d5: 0001, s: 11, qe1: 0001
+d2: 0000, d3: 0000, d4: 0000, d5: 0010, s: 00, qe1: 0000
+d2: 0000, d3: 0000, d4: 0000, d5: 0010, s: 01, qe1: 0000
+d2: 0000, d3: 0000, d4: 0000, d5: 0010, s: 10, qe1: 0000
+d2: 0000, d3: 0000, d4: 0000, d5: 0010, s: 11, qe1: 0010
+d2: 0000, d3: 0000, d4: 0000, d5: 0011, s: 00, qe1: 0000
+d2: 0000, d3: 0000, d4: 0000, d5: 0011, s: 01, qe1: 0000
+d2: 0000, d3: 0000, d4: 0000, d5: 0011, s: 10, qe1: 0000
+d2: 0000, d3: 0000, d4: 0000, d5: 0011, s: 11, qe1: 0011
+d2: 0000, d3: 0000, d4: 0000, d5: 0100, s: 00, qe1: 0000
+d2: 0000, d3: 0000, d4: 0000, d5: 0100, s: 01, qe1: 0000
+d2: 0000, d3: 0000, d4: 0000, d5: 0100, s: 10, qe1: 0000
+d2: 0000, d3: 0000, d4: 0000, d5: 0100, s: 11, qe1: 0100
+d2: 0000, d3: 0000, d4: 0000, d5: 0101, s: 00, qe1: 0000
+d2: 0000, d3: 0000, d4: 0000, d5: 0101, s: 01, qe1: 0000
+d2: 0000, d3: 0000, d4: 0000, d5: 0101, s: 10, qe1: 0000
+d2: 0000, d3: 0000, d4: 0000, d5: 0101, s: 11, qe1: 0101
+d2: 0000, d3: 0000, d4: 0000, d5: 0110, s: 00, qe1: 0000
+d2: 0000, d3: 0000, d4: 0000, d5: 0110, s: 01, qe1: 0000
+d2: 0000, d3: 0000, d4: 0000, d5: 0110, s: 10, qe1: 0000
+d2: 0000, d3: 0000, d4: 0000, d5: 0110, s: 11, qe1: 0110
+d2: 0000, d3: 0000, d4: 0000, d5: 0111, s: 00, qe1: 0000
+d2: 0000, d3: 0000, d4: 0000, d5: 0111, s: 01, qe1: 0000
+d2: 0000, d3: 0000, d4: 0000, d5: 0111, s: 10, qe1: 0000
+d2: 0000, d3: 0000, d4: 0000, d5: 0111, s: 11, qe1: 0111
+d2: 0000, d3: 0000, d4: 0000, d5: 1000, s: 00, qe1: 0000
+d2: 0000, d3: 0000, d4: 0000, d5: 1000, s: 01, qe1: 0000
+d2: 0000, d3: 0000, d4: 0000, d5: 1000, s: 10, qe1: 0000
+d2: 0000, d3: 0000, d4: 0000, d5: 1000, s: 11, qe1: 1000
+d2: 0000, d3: 0000, d4: 0000, d5: 1001, s: 00, qe1: 0000
+d2: 0000, d3: 0000, d4: 0000, d5: 1001, s: 01, qe1: 0000
+d2: 0000, d3: 0000, d4: 0000, d5: 1001, s: 10, qe1: 0000
+d2: 0000, d3: 0000, d4: 0000, d5: 1001, s: 11, qe1: 1001
+d2: 0000, d3: 0000, d4: 0000, d5: 1010, s: 00, qe1: 0000
+d2: 0000, d3: 0000, d4: 0000, d5: 1010, s: 01, qe1: 0000
+d2: 0000, d3: 0000, d4: 0000, d5: 1010, s: 10, qe1: 0000
+d2: 0000, d3: 0000, d4: 0000, d5: 1010, s: 11, qe1: 1010
+d2: 0000, d3: 0000, d4: 0000, d5: 1011, s: 00, qe1: 0000
+d2: 0000, d3: 0000, d4: 0000, d5: 1011, s: 01, qe1: 0000
+d2: 0000, d3: 0000, d4: 0000, d5: 1011, s: 10, qe1: 0000
+d2: 0000, d3: 0000, d4: 0000, d5: 1011, s: 11, qe1: 1011
+d2: 0000, d3: 0000, d4: 0000, d5: 1100, s: 00, qe1: 0000
+d2: 0000, d3: 0000, d4: 0000, d5: 1100, s: 01, qe1: 0000
+d2: 0000, d3: 0000, d4: 0000, d5: 1100, s: 10, qe1: 0000
+d2: 0000, d3: 0000, d4: 0000, d5: 1100, s: 11, qe1: 1100
+d2: 0000, d3: 0000, d4: 0000, d5: 1101, s: 00, qe1: 0000
+d2: 0000, d3: 0000, d4: 0000, d5: 1101, s: 01, qe1: 0000
+d2: 0000, d3: 0000, d4: 0000, d5: 1101, s: 10, qe1: 0000
+d2: 0000, d3: 0000, d4: 0000, d5: 1101, s: 11, qe1: 1101
+d2: 0000, d3: 0000, d4: 0000, d5: 1110, s: 00, qe1: 0000
+d2: 0000, d3: 0000, d4: 0000, d5: 1110, s: 01, qe1: 0000
+d2: 0000, d3: 0000, d4: 0000, d5: 1110, s: 10, qe1: 0000
+d2: 0000, d3: 0000, d4: 0000, d5: 1110, s: 11, qe1: 1110
+d2: 0000, d3: 0000, d4: 0000, d5: 1111, s: 00, qe1: 0000
+d2: 0000, d3: 0000, d4: 0000, d5: 1111, s: 01, qe1: 0000
+d2: 0000, d3: 0000, d4: 0000, d5: 1111, s: 10, qe1: 0000
+d2: 0000, d3: 0000, d4: 0000, d5: 1111, s: 11, qe1: 1111
+d2: 0000, d3: 0000, d4: 0001, d5: 0001, s: 00, qe1: 0000
+d2: 0000, d3: 0000, d4: 0001, d5: 0001, s: 01, qe1: 0001
+mux2 vs correct test failed, number:          65, 0000 != 0001
+mux3 vs correct test failed, number:          65, 0000 != 0001
+d2: 0000, d3: 0000, d4: 0001, d5: 0001, s: 10, qe1: 0000
+mux2 vs correct test failed, number:          66, 0001 != 0000
+mux3 vs correct test failed, number:          66, 0001 != 0000
+d2: 0000, d3: 0000, d4: 0001, d5: 0001, s: 11, qe1: 0001
+d2: 0000, d3: 0000, d4: 0001, d5: 0010, s: 00, qe1: 0000
+d2: 0000, d3: 0000, d4: 0001, d5: 0010, s: 01, qe1: 0001
+mux2 vs correct test failed, number:          69, 0000 != 0001
+mux3 vs correct test failed, number:          69, 0000 != 0001
+d2: 0000, d3: 0000, d4: 0001, d5: 0010, s: 10, qe1: 0000
+mux2 vs correct test failed, number:          70, 0001 != 0000
+mux3 vs correct test failed, number:          70, 0001 != 0000
+d2: 0000, d3: 0000, d4: 0001, d5: 0010, s: 11, qe1: 0010
+d2: 0000, d3: 0000, d4: 0001, d5: 0011, s: 00, qe1: 0000
+d2: 0000, d3: 0000, d4: 0001, d5: 0011, s: 01, qe1: 0001
+mux2 vs correct test failed, number:          73, 0000 != 0001
+mux3 vs correct test failed, number:          73, 0000 != 0001
+d2: 0000, d3: 0000, d4: 0001, d5: 0011, s: 10, qe1: 0000
+mux2 vs correct test failed, number:          74, 0001 != 0000
+mux3 vs correct test failed, number:          74, 0001 != 0000
+d2: 0000, d3: 0000, d4: 0001, d5: 0011, s: 11, qe1: 0011
+d2: 0000, d3: 0000, d4: 0001, d5: 0100, s: 00, qe1: 0000
+d2: 0000, d3: 0000, d4: 0001, d5: 0100, s: 01, qe1: 0001
+mux2 vs correct test failed, number:          77, 0000 != 0001
+mux3 vs correct test failed, number:          77, 0000 != 0001
+d2: 0000, d3: 0000, d4: 0001, d5: 0100, s: 10, qe1: 0000
+mux2 vs correct test failed, number:          78, 0001 != 0000
+mux3 vs correct test failed, number:          78, 0001 != 0000
+d2: 0000, d3: 0000, d4: 0001, d5: 0100, s: 11, qe1: 0100
+d2: 0000, d3: 0000, d4: 0001, d5: 0101, s: 00, qe1: 0000
+d2: 0000, d3: 0000, d4: 0001, d5: 0101, s: 01, qe1: 0001
+mux2 vs correct test failed, number:          81, 0000 != 0001
+mux3 vs correct test failed, number:          81, 0000 != 0001
+d2: 0000, d3: 0000, d4: 0001, d5: 0101, s: 10, qe1: 0000
+mux2 vs correct test failed, number:          82, 0001 != 0000
+mux3 vs correct test failed, number:          82, 0001 != 0000
+d2: 0000, d3: 0000, d4: 0001, d5: 0101, s: 11, qe1: 0101
+d2: 0000, d3: 0000, d4: 0001, d5: 0110, s: 00, qe1: 0000
+d2: 0000, d3: 0000, d4: 0001, d5: 0110, s: 01, qe1: 0001
+mux2 vs correct test failed, number:          85, 0000 != 0001
+mux3 vs correct test failed, number:          85, 0000 != 0001
+d2: 0000, d3: 0000, d4: 0001, d5: 0110, s: 10, qe1: 0000
+mux2 vs correct test failed, number:          86, 0001 != 0000
+mux3 vs correct test failed, number:          86, 0001 != 0000
+d2: 0000, d3: 0000, d4: 0001, d5: 0110, s: 11, qe1: 0110
+d2: 0000, d3: 0000, d4: 0001, d5: 0111, s: 00, qe1: 0000
+d2: 0000, d3: 0000, d4: 0001, d5: 0111, s: 01, qe1: 0001
+mux2 vs correct test failed, number:          89, 0000 != 0001
+mux3 vs correct test failed, number:          89, 0000 != 0001
+d2: 0000, d3: 0000, d4: 0001, d5: 0111, s: 10, qe1: 0000
+mux2 vs correct test failed, number:          90, 0001 != 0000
+mux3 vs correct test failed, number:          90, 0001 != 0000
+d2: 0000, d3: 0000, d4: 0001, d5: 0111, s: 11, qe1: 0111
+d2: 0000, d3: 0000, d4: 0001, d5: 1000, s: 00, qe1: 0000
+d2: 0000, d3: 0000, d4: 0001, d5: 1000, s: 01, qe1: 0001
+mux2 vs correct test failed, number:          93, 0000 != 0001
+mux3 vs correct test failed, number:          93, 0000 != 0001
+d2: 0000, d3: 0000, d4: 0001, d5: 1000, s: 10, qe1: 0000
+mux2 vs correct test failed, number:          94, 0001 != 0000
+mux3 vs correct test failed, number:          94, 0001 != 0000
+d2: 0000, d3: 0000, d4: 0001, d5: 1000, s: 11, qe1: 1000
+d2: 0000, d3: 0000, d4: 0001, d5: 1001, s: 00, qe1: 0000
+d2: 0000, d3: 0000, d4: 0001, d5: 1001, s: 01, qe1: 0001
+mux2 vs correct test failed, number:          97, 0000 != 0001
+mux3 vs correct test failed, number:          97, 0000 != 0001
+d2: 0000, d3: 0000, d4: 0001, d5: 1001, s: 10, qe1: 0000
+mux2 vs correct test failed, number:          98, 0001 != 0000
+mux3 vs correct test failed, number:          98, 0001 != 0000
+d2: 0000, d3: 0000, d4: 0001, d5: 1001, s: 11, qe1: 1001
+d2: 0000, d3: 0000, d4: 0001, d5: 1010, s: 00, qe1: 0000
+d2: 0000, d3: 0000, d4: 0001, d5: 1010, s: 01, qe1: 0001
+mux2 vs correct test failed, number:         101, 0000 != 0001
+- /home/physdesign/Projects/Verilog/multiplexers/util.sv:8: Verilog $finish
+mux3 vs correct test failed, number:         101, 0000 != 0001
+- /home/physdesign/Projects/Verilog/multiplexers/util.sv:8: Verilog $finish
+[100%] Built target runsim_mux
+[100%] Built target build-all
