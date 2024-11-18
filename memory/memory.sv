@@ -5,10 +5,10 @@ endinterface
 interface controlbus();
     logic en, rw;
     modport Test(
-        output en, rw;
+        output en, rw
     );
     modport Memory(
-        input en, rw;
+        input en, rw
     );
 endinterface
 
@@ -17,8 +17,8 @@ module memory(input logic clk, databus dataint, controlbus.Memory memint);
     always @(posedge clk)
         begin
             if(memint.en && memint.rw)
-                mem[dataint.adrr] <= dataint.data;
+                mem[dataint.addr] <= dataint.data;
             else if(memint.en && ~memint.rw)
-                dataint.data <= mem[dataint.adrr];
+                dataint.data <= mem[dataint.addr];
         end
 endmodule
