@@ -19,8 +19,9 @@ SET(OPTS_VCS
 SET(SIMV latches)
 
 SET(SRC
-  ${CMAKE_CURRENT_SOURCE_DIR}/instructions_bench.sv
-  ${CMAKE_CURRENT_SOURCE_DIR}/instructions.sv
+  ${CMAKE_CURRENT_SOURCE_DIR}/instructions_test.sv  
+  # ${CMAKE_CURRENT_SOURCE_DIR}/instructions_bench.sv
+  # ${CMAKE_CURRENT_SOURCE_DIR}/instructions.sv
 #   ${CMAKE_CURRENT_SOURCE_DIR}/util.sv
 )
 
